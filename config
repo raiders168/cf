@@ -1,0 +1,3 @@
+git远程添加原点https://github.com/raiders168/cf.git
+git分支 -M main 
+git push -u origin main
